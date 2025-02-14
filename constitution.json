@@ -1,1 +1,22 @@
-
+{
+  "contributors": [
+    {
+      "address": "0x90D4E0614a6e331e764519973798056A1709C4Bd",
+      "weight": 1
+    },
+    {
+      "address": "0xf2657692f65c8febcad1e9cd56610af4fbb80774",
+      "weight": 1
+    }
+  ],
+  "quorum": {
+    "spending": 2,
+    "vulnerability": 1,
+    "voting": 1
+  },
+  "project_details": {
+    "name": "Linez78",
+    "description": "Linez78 is an open-source tool designed to simplify and optimize software development processes.",
+    "url": "https://github.com/linez78"
+  }
+}
